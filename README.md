@@ -46,7 +46,7 @@ The system consists of two main components: the server and the client.
 ## Dependencies
 
 - `end2end`: Encryption library for secure communication.
-- `psutil`: Process management library for Python.
+- `fade`: Fades the text for specific strings
 
 ## Credits
 
