@@ -1,6 +1,6 @@
 # Freddy vs Jason Multi-Client Shell Manager
 
-![Freddy vs Jason](https://raw.githubusercontent.com/dea/Friday-13th-RAT/main/freddy_vs_jason.jpg)
+![Freddy vs Jason](https://github.com/deafbi/Friday-13th-RAT/blob/main/freddy_vs_jason.jpg)
 
 ## Description
 
